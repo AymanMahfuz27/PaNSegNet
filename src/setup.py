@@ -1,6 +1,6 @@
 from setuptools import setup, find_namespace_packages
 
-setup(name='nnunet',
+setup(name='pansegnet',
       packages=find_namespace_packages(include=["nnunet", "nnunet.*"]),
       version='1.7.0',
       description='nnU-Net. Framework for out-of-the box biomedical image segmentation.',
