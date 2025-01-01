@@ -1,6 +1,6 @@
 [submodule "benchmark"]
 	path = benchmark
-	url = git@https://github.com/NUBagciLab/Pancreas_SAM.git
+	url = https://github.com/NUBagciLab/Pancreas_SAM.git
 [submodule "comparision/sam"]
 	path = comparision/sam
-	url = git@https://github.com/NUBagciLab/Pancreas_SAM.git
+	url = https://github.com/NUBagciLab/Pancreas_SAM.git
